@@ -12,7 +12,7 @@
   --primary-bg-color: #ffffff;
   --secondary-bg-color: #f5f4fa;
   --hero-bg-color: #2f303a;
-  --footer-text-color: rgba(255, 255, 255, 0, 6);
+  --footer-text-color: rgba(255, 255, 255, 0.6);
 }
 
 /* body */
